@@ -43,6 +43,6 @@
 
 ### 👨‍🎓 Образование:
 
-| [<img src="./images/sertificat_js_1_HTML-Academy.jpg" width="300px" alt="Сертификат о успешном прохождении программы «JavaScript. Профессиональная разработка веб-интерфейсов»">](https://disk.yandex.ru/i/AugyJFyB1jlQaQ) | [<img src="./images/sertificat_js_3_HTML-Academy.jpg" width="300px" alt="Сертификат о успешном прохождении программы «React. Разработка сложных клиентских приложений»">](https://drive.google.com/file/d/1tbXgyP8CsqUuN_0KNEVIEPoVR1Lk-Jpo)
+| [<img src="./images/sertificat_js_1_HTML-Academy.jpg" width="300px" alt="Сертификат о успешном прохождении программы «JavaScript. Профессиональная разработка веб-интерфейсов»">](https://disk.yandex.ru/i/AugyJFyB1jlQaQ) | [<img src="./images/sertificat_js_3_HTML-Academy.jpg" width="300px" alt="Сертификат о успешном прохождении программы «React. Разработка сложных клиентских приложений»">](https://disk.yandex.ru/i/qZrhKZfNGSlwyA)
 
 ---
