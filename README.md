@@ -19,7 +19,7 @@
 
 📫 **Cвязаться со мной**:
 
-[![Vkontakte Badge](https://img.shields.io/badge/-Vkontakte-blue?style=flat&logo=Vk&logoColor=white)](https://vk.com/muralha), [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](t.me/Ilya_Muralha)
+[![Vkontakte Badge](https://img.shields.io/badge/-Vkontakte-blue?style=flat&logo=Vk&logoColor=white)](https://vk.com/muralha), [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Ilya_Muralha)
 
 ---
 
